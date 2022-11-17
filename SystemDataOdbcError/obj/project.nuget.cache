@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNcvp0z5BRXh57Wuwp0+c0ceEIzklp8OU5xBS5ADsjhOJUDMQ/4DULtpQ7arexWj40S0hf+tEKij/66EjqZCUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mkimel\\source\\repos\\SystemDataOdbcError\\SystemDataOdbcError\\SystemDataOdbcError.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mkimel\\.nuget\\packages\\system.data.odbc\\7.0.0\\system.data.odbc.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
